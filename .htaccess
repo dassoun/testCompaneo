@@ -1,0 +1,3 @@
+<IfModule mod_rewrite.c>
+    RewriteRule ^/api/ api.php
+</IfModule>
